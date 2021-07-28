@@ -1,0 +1,21 @@
+\bh/a\b	 headache	CS	Line_61
+\bb/p\b	 blood pressure	CS	Line_64
+\bc/p\b	 chest pain	CS	Line_67
+\bd/c\b	 discharge	CS	Line_70
+\bd/t\b	 due to	CS	Line_73
+\bf/u\b	 follow up	CS	Line_76
+\bh/o\b	 history of	CS	Line_79
+\bm/s\b	 mental status	CS	Line_82
+\bn/v/d\b	 nausea, vomiting, diarrhea 	CI	Line_87
+\bn\,v\,d\b	 nausea, vomiting, diarrhea 	CI	Line_92
+n/v	nausea, vomiting 	CI	Line_95
+\bn,v\b	 nausea, vomiting 	CI	Line_98
+nausea/vomiting	nausea vomiting	CS	Line_101
+\br/o\b	 rule out 	CI	Line_104
+\bs/p\b	 status post 	CI	Line_107
+\bs/s\b	 signs and symptoms	CS	Line_110
+\bs/t\b	 sore throat	CS	Line_113
+\bw/d\b	 withdrawal	CI	Line_116
+\bheart/lung\b	 heart-lung	CS	Line_119
+\bw/insp\b	 with inspiration	CS	Line_122
+\+	 positive 	CS	Line_136

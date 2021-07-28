@@ -1,0 +1,69 @@
+\bAbdominal Pain/Cramping/Burning\b	 abdominal pain, abdominal cramping 	CI	Line_59
+\bApnea/apneic episodes\b	 apnea 	CI	Line_64
+\bBack injury/strain/pull\b	 back injury, back strain 	CI	Line_69
+\bBack spasm/stiffness\b	 back spasm, stiffness 	CI	Line_74
+\bBlood in stool/bloody BM\b	 blood in stool 	CI	Line_79
+\bBlood in urine/Hematuria\b	 blood in urine, hematuria 	CI	Line_84
+\bBreast lump/knot\b	 breast lump, breast knot 	CI	Line_89
+\bCannot  speak/talk\b	 unable to speak 	CI	Line_94
+\bCat bite/scratch\b	 cat bite, cat scratch 	CI	Line_99
+\bChest pain/tightness/pressure/burning/aching\b	 chest pain, chest tightness, chest pressure, chest burning, chest aching 	CI	Line_104
+\bChest pain after smoking crack/cocaine\b	 chest pain after smoking crack, chest pain after smoking cocaine 	CI	Line_109
+\bChest pain with inspiration/deep breath\b	 chest pain on breathing 	CI	Line_114
+\bCrack/cocaine abuse\b	 cocaine abuse 	CI	Line_119
+\bCVA/stroke\b	 CVA, stroke 	CI	Line_124
+\bDepressed/despondent\b	 depressed, despondent 	CI	Line_129
+\bDog bite/scratch\b	 dog bite, dog scratch 	CI	Line_134
+\bDrug abuse/withdrawal\b	 drug abuse, drug withdrawal 	CI	Line_139
+\bEar \(s\) stopped up/stuffy\b	 ear congestion 	CI	Line_144
+\bEye \(s\) burning/pain\b	 eye burning, eye pain 	CI	Line_149
+\bFainted/feels faint\b	 fainted, feels faint 	CI	Line_154
+\bGum pain/swelling\b	 gum pain, gum swelling 	CI	Line_159
+\bHead bleed/hemorrhage\b	 intracerebral bleed 	CI	Line_164
+\bHead/scalp itching\b	 scalp itching 	CI	Line_169
+\bHeadache/head pain\b	 headache, head pain 	CI	Line_174
+\bHypertension/HTN\b	 hypertension, HTN 	CI	Line_179
+\bIncision opened/recheck\b	 incision opened, incision recheck 	CI	Line_184
+\bInguinal hernia/pain\b	 inguinal hernia, inguinal pain 	CI	Line_189
+\bInhalation of toxic fumes/gases\b	 inhalation of toxic fumes, inhalation of toxic gases 	CI	Line_194
+\bInsect bite/sting\b	 insect bite, insect sting 	CI	Line_199
+\bJaw pain/swelling\b	 jaw pain, jaw swelling 	CI	Line_204
+\bJoint pain/swelling\b	 joint pain, joint swelling 	CI	Line_209
+\bLip pain/swelling\b	 lip pain, lip swelling 	CI	Line_214
+\bLoss of appetite/No appetite\b	 loss of appetite, no appetite 	CI	Line_219
+\bLoss of consciousness/LOC\b	 loss of consciousness 	CI	Line_224
+\bLow abdominal pain/pressure\b	 low abdominal pain 	CI	Line_229
+\bLSD/acid abuse\b	 LSD abuse, acid abuse 	CI	Line_234
+\bMotorcycle crash/MCC\b	 motorcycle crash 	CI	Line_239
+\bMotor vehicle crash/MVC\b	 motor vehicle crash 	CI	Line_244
+\bMouth pain/swelling\b	 mouth pain, mouth swelling 	CI	Line_249
+\bNeck pain/stiffness\b	 neck pain, neck stiffness 	CI	Line_254
+\bNervous/nerve problem\b	 nervous, nerve problem 	CI	Line_259
+\bOverdose/toxic ingestion-accidental\b	 overdose, toxic ingestion- accidental 	CI	Line_264
+\bOverdose/toxic ingestion-suicide attempt\b	 overdose, toxic ingestion- suicide attempt 	CI	Line_269
+\bPain medicines wanted/needed\b	 pain medicine wanted, pain medicine needed 	CI	Line_274
+\bPenile discharge/pus\b	 penile discharge, penile pus 	CI	Line_279
+\bPenile pain/swelling\b	 penile pain, penile swelling 	CI	Line_284
+\bPost-op pain/problems\b	 post-op pain, post-op problems 	CI	Line_289
+\bPregnancy test wanted/late period\b	 pregnancy test, late period 	CI	Line_294
+\bPus on tonsils/throat\b	 pus on tonsils, pus on throat 	CI	Line_299
+\bRectal pain/swelling\b	 rectal pain, rectal swelling 	CI	Line_304
+\bScrotal pain/swelling\b	 scrotal pain, scrotal swelling 	CI	Line_309
+\bSickle cell crisis \(SCC\)/pain to\b	 sickle cell crisis, pain to 	CI	Line_314
+\bSickle cell crisis sickle cell crisis/pain to\b	 sickle cell crisis, pain to 	CI	Line_320
+\b\Sinus pain/pressure/siinusitis\b	 sinus pain, sinus pressure, sinusitis 	CI	Line_325
+\bSorethroat/scratchy throat\b	 sorethroat 	CI	Line_330
+\bStab wound/SW to\b	 stab wound to 	CI	Line_335
+\bSyncope/syncopal episode\b	 syncope, syncopal episode 	CI	Line_340
+\bTesticular pain/swelling\b	 testicular pain, testicular swelling 	CI	Line_345
+\bThyroid problems - hyper/hypothyroid\b	 thyroid problems, hyperthyroid, hypothyroid 	CI	Line_350
+\bUpset/worried\b	 upset, worried 	CI	Line_355
+\bVaginal discharge/odor\b	 vaginal discharge, vaginal odor 	CI	Line_360
+\bWithdrawals - ETOH and/or drugs\b	 withdrawals- ETOH, withdrawals- drugs, withdrawals- ETH and drugs 	CI	Line_365
+\bTracheostomy change/problems\b	 tracheostomy change, tracheostomy problems 	CI	Line_370
+\bFever/Hx SCC\b	 fever, history of sickle cell crisis 	CI	Line_375
+\bConcussion R/O\b	 concussion 	CI	Line_380
+\bEar/s/draining blood\b	 ear draining blood 	CI	Line_385
+\bEar/s/draining fluid\b	 ear draining fluid 	CI	Line_390
+\bEarache/Ear pain\b	 earache, ear pain 	CI	Line_395
+\bEye/s/injury\b	 eye injury 	CI	Line_400
