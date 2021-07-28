@@ -1,0 +1,46 @@
+\bw/(([a-z]){2,})	 with $1	CI	Line_45
+\bw/	 with	CI	Line_46
+(\bmult c/o|mult. c/o|multiple c/o\b)	multiple complaints 	CI	Line_52
+( c/o\b| c/o |\bc/o\b|\bc/o )	 	CI	Line_57
+^\\	 	CS	Line_61
+\bps states\b	 	CS	Line_68
+\bpt sts\b	 	CS	Line_71
+\bpt mother sts\b	 	CS	Line_74
+\bpt parent sts\b	 	CS	Line_77
+\bpt states he is having\b	 	CS	Line_80
+\bpt states he\b	 	CS	Line_83
+\bpt states she has\b	 	CS	Line_86
+\bpt states she is having\b	 	CS	Line_89
+\bmother sts pt\b	 	CS	Line_92
+\bmthr sts pt\b	 	CS	Line_95
+\bparent sts pt\b	 	CS	Line_98
+\bparent sts pt\b	 	CS	Line_101
+\bpt's daughter states\b	 	CS	Line_104
+\bpt's father states\b	 	CS	Line_107
+\bpt's friend states\b	 	CS	Line_110
+\bpt's grandmother states\b	 	CS	Line_113
+\bpt's husband states\b	 	CS	Line_116
+\bpt's mother states\b	 	CS	Line_119
+\bpt's wife states\b	 	CS	Line_122
+\bpt's\b	 	CS	Line_125
+\bpt\b	 	CS	Line_128
+\bpts father sts\b	 	CS	Line_131
+\bpts mom sts\b	 	CS	Line_134
+\bpts mother sts\b	 	CS	Line_137
+\baunt sts\b	 	CS	Line_140
+\bdad sts\b	 	CS	Line_143
+\bdaughter sts\b	 	CS	Line_146
+\bems states\b	 	CS	Line_149
+\bems sts\b	 	CS	Line_152
+\bems sts pt\b	 	CS	Line_155
+\bfather sts\b	 	CS	Line_158
+\bfriend sts\b	 	CS	Line_161
+\bgrandmother sts\b	 	CS	Line_164
+\bhusband sts\b	 	CS	Line_167
+\bmother states\b	 	CS	Line_170
+\bmother sts\b	 	CS	Line_173
+\bparent states\b	 	CS	Line_177
+\bparent sts\b	 	CS	Line_180
+\bparents sts\b	 	CS	Line_184
+\bson sts\b	 	CS	Line_187
+\bwife sts\b	 	CS	Line_190

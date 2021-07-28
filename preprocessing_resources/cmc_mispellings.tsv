@@ -1,0 +1,28 @@
+\bAbscessed tooth\b	 abcess tooth 	CI	Line_39
+\bCannot hear\b	 unable to hear 	CI	Line_43
+\bCannot move\b	 unable to move 	CI	Line_47
+\bCannot smell\b	 unable to smell 	CI	Line_51
+\bCannot sleep\b	 unable to sleep 	CI	Line_56
+\bCannot taste\b	 unable to taste 	CI	Line_57
+\bCarbon monoxide poisioning\b	 carbon monoxide poisoning 	CI	Line_60
+\bCode 100 - cardiopulmonary arrest\b	 cardiopulmonary arrest 	CI	Line_65
+\bCode 100\b	 cardiopulmonary arrest 	CI	Line_69
+\bCode 600 - sexual assault exam\b	 sexual assault 	CI	Line_74
+\bCode 600\b	 sexual assault 	CI	Line_78
+\bDelivery of newborn\b	 delivery, obstetric 	CI	Line_82
+\bElectricution\b	 electrocution 	CI	Line_87
+\bETOH withdrawals\b	 alcohol withdrawal 	CI	Line_92
+\bEye \(s\) itching\b	 itching of eye 	CI	Line_97
+\bEye \(s\) swollen\b	 swelling of eye 	CI	Line_101
+\bFemale complaint\b	 gynecologic problem 	CI	Line_106
+\bHeart palpitations\b	 palpitations 	CI	Line_111
+\bHyperglycemic\b	 hyperglycemia 	CI	Line_116
+\bIncreased heartrate\b	 heartbeats increased 	CI	Line_120
+\bMedicine refill\b	 prescription refill 	CI	Line_125
+\bNear-syncopal episode\b	 near syncope 	CI	Line_130
+\bSomething caught in throat\b	 foreign body in throat 	CI	Line_135
+\bSeizure - first time\b	 new onset seizure 	CI	Line_140
+\bVaginal boil\b	 vaginal cyst 	CI	Line_145
+\bCannot swallow\b	 unable to swallow 	CI	Line_150
+\bSuicide ideations\b	 suicidal ideation 	CI	Line_154
+\bExamination requested\b	 medical examination 	CI	Line_158

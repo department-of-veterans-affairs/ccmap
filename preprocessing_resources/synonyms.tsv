@@ -1,0 +1,637 @@
+\b7273\b	sexual assault	CI	Line_72
+\bA fib\b	atrial fibrillation	CI	Line_117
+\bA. fib\b	atrial fibrillation	CI	Line_140
+\ba.?flutter	atrial flutter	CI	Line_112
+\bA.fib\b	atrial fibrillation	CI	Line_123
+\bAaa\b	abdominal aortic aneurysm	CI	Line_75
+\bAb\b	abdominal	CI	Line_78
+\bAbd\b	abdominal	CI	Line_81
+\bAbdmn\b	abdominal	CI	Line_84
+\bAbn\b	abnormal	CI	Line_87
+\bAbnl\b	abnormal	CI	Line_90
+\bAbnorm\b	abnormal	CI	Line_93
+\bAbsc\b	abscess	CI	Line_99
+\bAbsce\b	abscess	CI	Line_96
+\bAbsces\b	abscess	CI	Line_102
+\bAcc\b	accident	CI	Line_105
+\bacs\b	acute coronary syndrome	CI	Line_106
+\bAfib\b	atrial fibrillation	CI	Line_114
+\bA-fib\b	atrial fibrillation	CI	Line_120
+\bahrf\b	Acute Hypoxemic Respiratory Failure	CI	Line_146
+\baki\b	Acute kidney injury	CI	Line_145
+\bAller\b	allergic	CI	Line_150
+\bAllerg\b	allergic	CI	Line_147
+\bAlt\b	altered	CI	Line_153
+\baltered loc|alt loc|loc altered|aloc\b	altered level of consciousness	CI	Line_704
+\bAma\b	against medical advice	CI	Line_156
+\bAms\b	 abnormal mental state 	CI	Line_159
+\bAnk\b	ankle	CI	Line_162
+\bAppt\b	appointment	CI	Line_165
+\bAppy\b	appendectomy	CI	Line_168
+\bArf\b	acute renal failure	CI	Line_171
+\bArm numb\b	numbness of upper limb	CI	Line_174
+\bArm numbness\b	numbness of upper limb	CI	Line_177
+\bAtr fib\b	atrial fibrillation	CI	Line_127
+\bAtr\. fib\b	atrial fibrillation	CI	Line_130
+\bAtrial fib\b	atrial fibrillation	CI	Line_137
+\bAtril fib\b	atrial fibrillation	CI	Line_133
+\bbeesting\b	bee sting	CI	Line_180
+\bBilat\b	bilateral	CI	Line_183
+\bBili\b	bilirubin	CI	Line_186
+\bBka\b	below the knee amputation	CI	Line_189
+\bbld\b	bleed	CI	Line_208
+\bbld\b	blood	CI	Line_214
+\bbldg\b	bleeding	CI	Line_196
+\bblding\b	bleeding	CI	Line_201
+\bBleedin\b	bleeding	CI	Line_192
+\bBm\b	bowel movement	CI	Line_219
+\bbp\b	blood pressure	CI	Line_222
+\bBrb stool\b	bright red blood per rectum	CI	Line_231
+\bBrb stools\b	bright red blood per rectum	CI	Line_234
+\bBrbpr\b	bright red blood per rectum	CI	Line_228
+\bBreathi\b	breathing	CI	Line_225
+\bBs\b	blood sugar	CI	Line_237
+\bButt\b	buttocks	CI	Line_240
+\bC spine\b	cervical spine	CI	Line_243
+\bC/p\b	chest pain	CI	Line_328
+\bCa\b	cancer	CI	Line_246
+\bCAD\b	coronary artery disease	CI	Line_249
+\bCAP\b	comminity acquired pneumonia	CI	Line_250
+\bCath\b	catheter	CI	Line_252
+\bc.?diff\w*\b	 Clostridium difficile 	CI	Line_253
+\bCerebrovasc\b	cerebrovascular	CI	Line_340
+\bCerebrovascula\b	cerebrovascular	CI	Line_255
+\bCf\b	cystic fibrosis	CI	Line_258
+\bChf\b	congestive heart failure	CI	Line_261
+\bChg\b	change	CI	Line_270
+\bChges\b	change	CI	Line_264
+\bChi\b	closed head injury	CI	Line_276
+\bChng\b	change	CI	Line_267
+\bCk\b	check	CI	Line_273
+\bCkd\b	chronic kidney disease	CI	Line_274
+\bCl\b	clearance	CI	Line_288
+\bClearan\b	clearance	CI	Line_285
+\bClearanc\b	clearance	CI	Line_282
+\bCli\b	critical limb ischemia	CI	Line_289
+\bCommit\b	commitment	CI	Line_291
+\bcomp\b	compensation	CI	Line_296
+\bcomp\b	complaint	CI	Line_300
+\bCong\b	congestion	CI	Line_307
+\bConges\b	congestion	CI	Line_304
+\bCongest\b	congestion	CI	Line_310
+\bCongesti\b	congestion	CI	Line_313
+\bCongestio\b	congestion	CI	Line_316
+\bConsciousne\b	consciousness	CI	Line_319
+\bConstipatio\b	constipation	CI	Line_322
+\bCOPD\b	chronic obstructive pulmonary disease	CI	Line_325
+\bCp\b	chest pain	CI	Line_328
+chestpain	chest pain	CI	Line_329
+\bC-sec\b	cesarean section	CI	Line_331
+\bC-spine\b	cervical spine	CI	Line_334
+\bCt scan\b	computed tomography	CI	Line_337
+\bCva\b	cerebrovascular accident	CI	Line_343
+\bCx\b	culture	CI	Line_346
+\bcxhf\b	Heart failure 	CI	Line_1148
+\bCxr\b	chest x-ray	CI	Line_349
+\bd/o\b	disorder	CI	Line_2000
+\bDc\b	discharge	CI	Line_352
+\bdec loc|decr loc|decr. loc|decrease loc|decreased loc\b	decreased level of consciousness	CI	Line_707
+\bDec\b	decreased	CI	Line_358
+\bDecr\b	decreased	CI	Line_355
+\bDecre\b	decreased	CI	Line_361
+\bDetox\b	detoxification	CI	Line_364
+\bDiab\b	Diabetes Mellitus	CI	Line_367
+\bDMT2\b	Diabetes Mellitus	CI	Line_2345
+\bDiar\b	diarrhea	CI	Line_370
+\bDiarr\b	diarrhea	CI	Line_373
+\bDiarrh\b	diarrhea	CI	Line_376
+\bDiarreha\b	diarrhea	CI	Line_376
+\bDIB\b	Dyspnea	CI	Line_1148
+(?>!c.{0,2})\bDiff\b	difficulty	CI	Line_379
+\bDiscom\b	discomfort	CI	Line_385
+\bDiscomf\b	discomfort	CI	Line_382
+\bDiscomft\b	discomfort	CI	Line_388
+\bDisloc\b	dislocation	CI	Line_391
+\bDisloca\b	dislocation	CI	Line_394
+\bDistres\b	distress	CI	Line_397
+\bDm\b	 Diabetes Mellitus 	CI	Line_400
+\bDogbite\b	dog bite	CI	Line_403
+\bDr\.\b	doctor	CI	Line_412
+\bDr\b	doctor	CI	Line_409
+\bDsg\b	dressing	CI	Line_406
+\bDt\b	alcohol withdrawal delerium	CI	Line_415
+\bDvt\b	deep venous thrombosis	CI	Line_418
+\bDx\b	diagnosis	CI	Line_421
+\bEd\b	emergency department	CI	Line_430
+\bEkg\b	electrocardiogram	CI	Line_433
+\bEnt\b	ear nose and throat	CI	Line_436
+\bEpig\b	epigastric	CI	Line_439
+\bEpigas\b	epigastric	CI	Line_442
+\bEpigast\b	epigastric	CI	Line_445
+\bEsrd\b	end stage renal disease	CI	Line_448
+\bETOH\b	alcohol	CI	Line_2345
+\bEval\b	evaluation	CI	Line_451
+\bevar\b	Hemorrhagic stroke	CI	Line_1148
+\bExacer\w*\b	exacerbation	CI	Line_454
+\bExpos\b	exposure	CI	Line_457
+\bExt\b	extremity	CI	Line_460
+\bFb\b	foreign body	CI	Line_483
+\bFeb\b	february	CI	Line_108
+\bFev\b	fever	CI	Line_495
+\bFeve\b	fever	CI	Line_498
+\bFevers\b	fever	CI	Line_501
+\bFibrillatio\b	fibrillation	CI	Line_111
+\bFing\b	finger	CI	Line_486
+\bFlu sns\b	flu like symptoms	CI	Line_504
+\bFlu sxs\b	flu like symptoms	CI	Line_507
+\bFlu sxss\b	flu like symptoms	CI	Line_510
+\bFlu sym\b	flu like symptoms	CI	Line_513
+\bFlu symp\b	flu like symptoms	CI	Line_516
+\bFlu symptoms\b	flu like symptoms	CI	Line_519
+\bFreq\b	frequency	CI	Line_489
+\bFt\b	foot	CI	Line_492
+\bftt\b	 failure to thrive 	CI	Line_1151
+\bFvr\b	fever	CI	Line_522
+\bFx\b	fracture	CI	Line_525
+\bG tube\b	gastric tube	CI	Line_528
+\bGastrointes\b	gastrointestinal	CI	Line_537
+\bGc\b	gonorrhea	CI	Line_531
+\bGen\b	generalized	CI	Line_534
+\bGi\b	gastrointestinal	CI	Line_540
+\bGib\b	gastrointestinal bleed	CI	Line_543
+\bGsw\b	gun shot wound	CI	Line_546
+\bG-tube\b	gastric tube	CI	Line_549
+\bGyn\b	gynecology	CI	Line_552
+\bH[/-]i\b	homicidal ideation	CI	Line_567
+\bH\.i(\.)?	homicidal ideation	CI	Line_567
+\bHa\b	headache	CI	Line_555
+\bHallucinati\b	hallucinations	CI	Line_558
+\bhap\b	Hospital acquired pneumonia	CI	Line_560
+\bhcap\b	Healthcare-associated pneumonia	CI	Line_559
+\bHep\b	hepatitis	CI	Line_561
+\bhf\b	heart failure	CI	Line_565
+\bHgb\b	hemoglobin	CI	Line_564
+\bh(&| *and *|/)h\b	hemoglobin	CI	Line_1564
+\bHi\b	homicidal ideation	CI	Line_567
+\bHr\b	heart rate	CI	Line_570
+\bHtn\b	hypertension	CI	Line_573
+\bHypertention\b	hypertension	CI	Line_2345
+\bhypotention\b	hypotension	CI	Line_2345
+\bHx\b	history	CI	Line_576
+\bhurts\b	pain	CI	Line_1576
+\bIch\b	intracranial hemorrhage	CI	Line_579
+\bim\w* *nailing\b	intramedullary rod nailing	CI	Line_580
+\bInc\b	increased	CI	Line_582
+\bIncis\b	incision	CI	Line_588
+\bIncr\b	increased	CI	Line_585
+\binf myocardial infarction\b	inferior myocardial infarction	CI	Line_595
+\binf\b	infection	CI	Line_599
+\bInfe\b	infection	CI	Line_609
+\bInfec\b	infection	CI	Line_603
+\bInfect\b	infection	CI	Line_612
+\bInfected\b	infection	CI	Line_618
+\bInfecti\b	infection	CI	Line_615
+\bInfectio\b	infection	CI	Line_606
+\bInj\b	injury	CI	Line_621
+\bInj[uryeid]*\b	injury	CI	Line_624
+\bInsp\b	inspiration	CI	Line_633
+\bIntes\b	intestinal	CI	Line_636
+\bIntest\b	intestinal	CI	Line_639
+\bIntrauterin\b	intrauterine	CI	Line_663
+\bInvol\b	involuntary	CI	Line_642
+\bIrreg\b	irregular	CI	Line_645
+\bIrrit\w*\b	irritation	CI	Line_651
+\bIup\b	intrauterine pregnancy	CI	Line_666
+\bIv\b	intravenous	CI	Line_669
+\bJ tube\b	jejunostomy tube	CI	Line_672
+\bJ-tube\b	jejunostomy tube	CI	Line_675
+\bK\b	potassium	CS	Line_678
+\bL\b	left	CI	Line_681
+\bLac\b	laceration	CI	Line_684
+\bLacs\b	lacerations	CI	Line_687
+\bLe\b	lower extremity	CI	Line_690
+\bLle\b	left lower extremity	CI	Line_693
+\bLlq\b	left lower quadrant	CI	Line_696
+\bloc changes\b	level of consciousness changes	CI	Line_711
+\bloc\b	loss of consciousness	CI	Line_715
+\bLp\b	lumbar puncture	CI	Line_722
+\bLt\b	left	CI	Line_725
+\bLuq\b	left upper quadrant	CI	Line_728
+\bMd\b	medical doctor	CI	Line_731
+\bmed clearance\b	medical clearance	CI	Line_735
+\bmed\b	medication	CI	Line_739
+\bMeds\b	medications	CI	Line_743
+\bMi\b	myocardial infarction	CI	Line_591
+\bMon\b	month	CI	Line_746
+\bMos\b	months	CI	Line_749
+\bMri\b	magnetic resonance imaging	CI	Line_752
+\bMs\b	mental status	CI	Line_755
+\bMult\b	multiple	CI	Line_758
+\bMusc\b	muscle	CI	Line_761
+\bMva\b	motor vehicle accident	CI	Line_764
+\bMvc\b	motor vehicle crash	CI	Line_767
+\bn&v\b	nausea vomiting	CI	Line_779
+\bNause\b	nausea	CI	Line_773
+\bNausea\b	nausea	CI	Line_770
+\bNauseated\b	nausea	CI	Line_776
+\bNSTI\b	Necrotizing soft tissue infection	CI	Line_1148
+\bNtg\b	nitroglycerine	CI	Line_788
+\bnv\b	nausea vomiting	CI	Line_785
+\bnvd\b	nausea vomiting diarrhea	CI	Line_782
+\bOb\b	obstetrics	CI	Line_791
+\bobst\b	obstruction	CI	Line_797
+\bobstr\b	obstruction	CI	Line_794
+\bobstruc\b	obstruction	CI	Line_800
+\bOd\b	overdose	CI	Line_803
+\bOp\b	operative	CI	Line_806
+\bOs\b	oculus sinister	CI	Line_809
+\bosteomylitis\b	osteomyelitis	CI	Line_2345
+\bPa\b	pain	CI	Line_812
+\bPacer\b	pacemaker	CI	Line_818
+\bPai\b	pain	CI	Line_815
+\bPe\b	pulmonary embolus	CI	Line_821
+\bPeg\b	percutaneous endoscopic gastrostomy	CI	Line_824
+\bPercutaneou\b	percutaneous	CI	Line_827
+\bPicc\b	peripherally inserted central catheter	CI	Line_830
+\bPn\b	pain	CI	Line_833
+\bpna\b	pneumonia	CI	Line_834
+\bPNEU\b	Pneumonia	CI	Line_1148
+\bPneumoni\b	pneumonia	CI	Line_836
+\bpnemunia\b	pneumonia	CI	Line_2345
+\bPo\b	by mouth	CI	Line_839
+\bPos\b	positive	CI	Line_842
+\bPoss\b	possible	CI	Line_845
+\bPreg\b	pregnant	CI	Line_848
+\bPrescriptio\b	prescription	CI	Line_854
+\bPressu\b	pressure	CI	Line_851
+\bProb\b	problem	CI	Line_857
+\bProble\b	problem	CI	Line_860
+\bProbs\b	problems	CI	Line_863
+\bprod\b	productive	CI	Line_2345
+\bPsy\b	psychiatric	CI	Line_866
+\bPsyc\b	psychiatric	CI	Line_869
+\bPsych\b	psychiatric	CI	Line_872
+\bPsyche\b	psychiatric	CI	Line_875
+\bPulm\b	pulmonary	CI	Line_878
+\bPunc\b	puncture	CI	Line_881
+\bPVT\b	Portal vein thrombosis	CI	Line_1148
+\bPyelo\b	pyelonephritis	CI	Line_884
+\bQuad\b	quadrant	CI	Line_887
+\br/o\b	 rule out 	CI	Line_888
+\br\.o\b	 rule out 	CI	Line_888
+\bR\b	right	CI	Line_894
+\bRect\b	rectum	CI	Line_898
+\bRedden\b	redness	CI	Line_904
+\bReddened\b	redness	CI	Line_901
+\bRem\b	removal	CI	Line_907
+\bRemo\b	removal	CI	Line_916
+\bRemov\b	removal	CI	Line_910
+\bRemove\b	removal	CI	Line_919
+\bRemvl\b	removal	CI	Line_913
+\bResp(\.)?\b	respiratory	CI	Line_922
+\bRle\b	right lower extremity	CI	Line_925
+\bRlq\b	right lower quadrant	CI	Line_928
+\bRmsf\b	rocky mountain spotted fever	CI	Line_931
+\bro\b	rule out	CI	Line_888
+\bRsv\b	respiratory syncytial virus	CI	Line_934
+\bRt\b	right	CI	Line_937
+\bRuq\b	right upper quadrant	CI	Line_940
+\brvr\b	rapid ventricular response	CI	Line_941
+\brx\b	reaction	CI	Line_945
+\brx\b	prescription	CI	Line_949
+\bRxn\b	reaction	CI	Line_953
+\bS(\\|-| |/)i\b	suicidal ideation	CI	Line_998.5
+\bS.c.c.\b	sickle cell crisis	CI	Line_956
+\bS/p\b	status post	CI	Line_1002
+\bS\.i(\.|\b)?	suicidal ideation	CI	Line_998.5
+\bSah\b	subarachnoid hemorrhage	CI	Line_959
+\bSbo\b	small bowel obstruction	CI	Line_962
+\bSc\b	sickle cell	CI	Line_965
+\bScc\b	sickle cell crisis	CI	Line_968
+\bSdh\b	subdural hematoma	CI	Line_971
+\bShldr\b	shoulder	CI	Line_983
+\bSHOB\b	shortness of breath	CI	Line_1148
+\bShoul\b	shoulder	CI	Line_977
+\bShould\b	shoulder	CI	Line_980
+\bShoulde\b	shoulder	CI	Line_974
+\bSi\b	suicidal ideation	CI	Line_998
+\bSide weak\b	hemiparesis	CI	Line_986
+\bSide weakness\b	hemiparesis	CI	Line_992
+\bSided weak\b	hemiparesis	CI	Line_995
+\bSided weakness\b	hemiparesis	CI	Line_989
+\bSIMD\b	substance induced mood disorder	CI	Line_999
+\bSns\b	symptoms	CI	Line_1046
+\bSob\b	shortness of breath	CI	Line_1001
+\bSOP\b	shortness of breath	CI	Line_1148
+\bSt\b	sore throat	CI	Line_1004
+\bStd\b	sexually transmitted disease	CI	Line_1007
+\bSurg\b	surgery	CI	Line_1013
+\bSvt\b	 supraventricular tachycardia 	CI	Line_1016
+\bSw\b	stab wound	CI	Line_1019
+\bSwel\b	swelling	CI	Line_1022
+\bSwell\b	swelling	CI	Line_1025
+\bSwelli\b	swelling	CI	Line_1028
+\bSwellin\b	swelling	CI	Line_1031
+\bSwolle\b	swollen	CI	Line_1034
+\bSx\b	symptoms	CI	Line_1037
+\bSxs\b	symptoms	CI	Line_1040
+\bSym\b	symptoms	CI	Line_1043
+\bSymp\b	symptoms	CI	Line_1049
+\bSz\b	seizures	CI	Line_1052
+\bSzs\b	seizures	CI	Line_1055
+\bT2DM\b	Diabetes Mellitus	CI	Line_2345
+\bTb\b	tuberculosis	CI	Line_1058
+\bTemp\b	temperature	CI	Line_1067
+\bTet\b	tetanus	CI	Line_1061
+\bTetanu\b	tetanus	CI	Line_1064
+\bThrt\b	throat	CI	Line_1070
+\bTia\b	transient ischemic attack	CI	Line_1073
+\bTib fib\b	tibia fibula	CI	Line_463
+\bTib/fib\b	tibia fibula	CI	Line_469
+\bTib-fib\b	tibia fibula	CI	Line_466
+\bTibia fib\b	tibia fibula	CI	Line_472
+\bTmj\b	temporomandiibular joint	CI	Line_1076
+\bTrach\b	tracheostomy	CI	Line_1079
+\bTracheostom\b	tracheostomy	CI	Line_1085
+\bTtp\b	thrombotic thrombocytopenic purpura	CI	Line_1082
+\bTuberculosi\b	tuberculosis	CI	Line_1088
+\bTx\b	treatment	CI	Line_1091
+\bugib\b	Upper gastrointestinal hemorrhage	CI	Line_1095
+\bUri\b	upper respiratory infection	CI	Line_1094
+\bUrin\b	urinary	CI	Line_1097
+\bUrinati\b	urinating	CI	Line_1100
+\busa\b	unstable angina	CI	Line_1103
+\bUti\b	urinary tract infection	CI	Line_1106
+\bV fib\b	ventricular fibrillation	CI	Line_144
+\bV tach\b	ventricular tachycardia	CI	Line_1109
+\bV.fib\b	ventricular fibrillation	CI	Line_144
+\bVag\b	vaginal	CI	Line_1112
+\bvent\b	Acute respiratory failure	CI	Line_1148
+\bvf\b	ventricular fibrillation	CI	Line_1107
+\bVmting\b	vomiting	CI	Line_1115
+\bVom\b	vomiting	CI	Line_1118
+\bVomi\b	vomiting	CI	Line_1121
+\bVomit\b	vomiting	CI	Line_1124
+\bVomited\b	vomiting	CI	Line_1130
+vommitted	vomiting	CI	Line_1130
+\bVomiti\b	vomiting	CI	Line_1127
+\bVomitin\b	vomiting	CI	Line_1133
+\bVomits\b	vomiting	CI	Line_1136
+\bVp\b	ventriculoperitoneal	CI	Line_1139
+\bvt\b	ventricular tachycardia	CI	Line_1140
+\bV-Tach\b	tachycardia	CI	Line_1148
+\bWd\b	wound	CI	Line_1142
+\bWks\b	weeks	CI	Line_1145
+\bWnd\b	wound	CI	Line_1148
+\surgrey\b	surgery	CI	Line_1010
+COVID(.{0,4}19)?	covid-19 	CI	Line_1148
+14 DAY QUARINTINE	covid-19	CI	Line_1148
+3RD DEGREE AVB	third-degree atrioventigular block	CI	Line_1148
+\bA ON C EXACERBATION OF HFpEF	Heart failure 	CI	Line_1148
+\bA.C\b HYPERCAPNEIC RESP FAIL	Acute on chronic respiratory failure	CI	Line_1148
+\bACLF\b	Acute liver injury	CI	Line_1148
+ACOPDE	Acute respiratory distress syndrome 	CI	Line_1148
+ACURE RESPITORY FAILURE	Acute respiratory failure	CI	Line_1148
+acute chronic decompensated	Heart failure 	CI	Line_1148
+acute.{1,5}chronic diastolic(?! heart failure)	Heart failure 	CI	Line_1148
+\bREN\w* FAIL\w*\b	 renal failure 	CI	Line_1148
+ACUTE CHRONIC RESPIRATORY	Acute respiratory failure	CI	Line_1148
+CONGEXTIVE	 congestive 	CI	Line_1148
+acute decomp heartfail	Heart failure 	CI	Line_1148
+ACUTE DECOMP SHF	Heart failure 	CI	Line_1148
+Acute decompensated	Heart failure 	CI	Line_1148
+ACUTE DIAHRRHEA	Diarrhea	CI	Line_1148
+ACUTE EXACERBATION OF H/F	Heart failure 	CI	Line_1148
+ACUTE EXACERBATION/ HF	Heart failure 	CI	Line_1148
+ACUTE HFrEF EXACERBATION	Heart failure 	CI	Line_1148
+ACUTE HYPERCAPNEIC RESP\w*\b	Acute respiratory failure	CI	Line_1148
+acute hypercarbic respiratory	Acute respiratory failure	CI	Line_1148
+ACUTE \bHYPO[XE]+mi[ca]\b(?! resp\w{0,10})	Acute Hypoxemic respiratory failure	CI	Line_1148
+\bRESP\w* .?AIL\w*\b	respiratory failure	CI	Line_1148
+\bHYPOX\b	 hypoxic 	CI	Line_1148
+\bHYPO[XIC]+\b	 hypoxic 	CI	Line_1148
+\bHYPO[XIC]+a\b	 hypoxia 	CI	Line_1148
+\bHYPO[XE]+mic\b	 hypoxemic 	CI	Line_1148
+\bHYPO[XE]+mia\b	 hypoxemia 	CI	Line_1148
+\bKIDENY\b	 kidney 	CI	Line_1148
+ACUTE MIXED RF\b	 Acute respiratory failure	CI	Line_1148
+\bCXHF\b	 congestive heart failure 	CI	Line_1148
+\bDIASTITIC\b	 DIASTOLIC 	CI	Line_1148
+ACUTE ON CHRONIC HFPEF EXACERB\w*\b	 Heart failure 	CI	Line_1148
+ACUTE ON CHRONIC HFrEF	Heart failure 	CI	Line_1148
+ACUTE ON CHRONIC RESP\w*( fail\w*)?	Acute on chronic respiratory failure	CI	Line_1148
+Acute.{1,5}chronic systolic(?! h\w{0,6} ?f\w{0,8}\b)	acute on chronic systolic heart failure 	CI	Line_1148
+acute pancreatitus	Abdominal pain	CI	Line_1148
+ACUTE PYELONEEPHRITIS	Acute kidney injury 	CI	Line_1148
+ACUTE RENAIL ?FAILURE	Acute kidney injury 	CI	Line_1148
+acute renalfailure	Acute kidney injury	CI	Line_1148
+ACUTE RES?P.? .?FAIL\w*\b	Acute respiratory failure	CI	Line_1148
+ACUTE ?RESP\w+ FA\w+	Acute respiratory failure	CI	Line_1148
+ACUTE RF\b	Acute respiratory failure 	CI	Line_1148
+ACUTE SYSTOLIC(?! heart failure)	acute systolic heart failure 	CI	Line_1148
+acute systolic dyswfunction	 acute systolic heart failure 	CI	Line_1148
+\bbronch[ctis]+\b	bronchitis	CI	Line_1148
+ACUTE.CHRONIC HFrEF.	Heart failure 	CI	Line_1148
+ACUTE/CHRONIC HYPERCARBIC	 Acute on chronic respiratory failure 	CI	Line_1148
+ACUTE ?RESP\w* FAIL\w*	 Acute respiratory failure 	CI	Line_1148
+\bADB PAIN	Abdominal pain	CI	Line_1148
+\bADCHF\b	 acute decompensated congestive heart failure 	CI	Line_1148
+\bADHF	 Acute decompensated heart failure	CI	Line_1148
+tropinemia	 troponinemia	CI	Line_1148
+\btach\b	 tachycardia 	CI	Line_1148
+ADHFpEF	Heart failure 	CI	Line_1148
+\bAECOPD	 Acute exacerbation of chrnic obstructive pulmonary disease 	CI	Line_1148
+\bRESP\w* DIS\w+S	 respiratory distress 	CI	Line_1148
+\bascities\b	 Ascites 	CI	Line_1152
+\bAF W/? ?AVR\b	 Atrial fibrillation after aortic valve replacement	CI	Line_1148
+\b(AF|a.?fib) W/ ?RVR	 Atrial fibrillation with rapid ventricular response	CI	Line_1148
+\bAFEBRIA\w*\b	afebrile	CI	Line_1148
+\bAHHRF\b	Acute Hypoxemic respiratory failure	CI	Line_1148
+\bAHRF\b	Acute Hypoxemic respiratory failure	CI	Line_1148
+\bAHRT\b	Acute respiratory failure	CI	Line_1148
+\bAKD\b	Acute kidney injury	CI	Line_1148
+\bARF\b	Acute respiratory failure	CI	Line_1148
+\bARI\b	Acute respiratory infection	CI	Line_1148
+ARRYHTHMIA	tachycardia	CI	Line_1148
+ASTHMATICUS	Dyspnea	CI	Line_1148
+\bAV BLOCK	 Atrioventricular Block 	CI	Line_1148
+AVNODE REENTRANT TACHYCADIS	tachycardia	CI	Line_1148
+AWMI	Acute cardiac injury 	CI	Line_1148
+B/L	MULTILOBAR	Pneumonia	CI	Line_1148
+BIL INFILURETE	Lower respiratory infection	CI	Line_1148
+\bBILAT PNA\b	Pneumonia	CI	Line_1148
+\bdiahrea\b	Diarrhea	CI	Line_1148
+BRAYCARDIA	tachycardia	CI	Line_1148
+BRONCHIETASIS EXACERBATION	Lower respiratory infection	CI	Line_1148
+C\-?19	covid-19	CI	Line_1148
+CARDIOMYEOPATHY	Cardiomyopathy	CI	Line_1148
+CARDIOVERTER DEFIBRILLATER	tachycardia	CI	Line_1148
+CHF EXACERBATION	Heart failure 	CI	Line_1148
+\bCIVD	covid-19	CI	Line_1148
+\bCOCID 19	covid-19	CI	Line_1148
+\bcod19	covid-19	CI	Line_1148
+\bCOFID-19	covid-19	CI	Line_1148
+\bCOGVID	covid-19	CI	Line_1148
+\bCOID-19	covid-19	CI	Line_1148
+combient inhaler	Dyspnea	CI	Line_1148
+\bcomm acq\w* pne?u\w*\b	Pneumonia	CI	Line_1148
+CONGESTIVE HERAT FAILURE	Heart failure 	CI	Line_1148
+CONTINUOUS PULSE OX	Dyspnea	CI	Line_1148
+CONVID	covid-19	CI	Line_1148
+convid 19	covid-19	CI	Line_1148
+COPD E[XACERB]+TION Chronic obstructive pulmonary disease exacerbation	CI	Line_1148
+COPDX EXAC	dyspnea	CI	Line_1148
+cor19	covid-19	CI	Line_1148
+\bCORON\b	covid-19	CI	Line_1148
+\bCorona\b	covid-19	CI	Line_1148
+Coronus	covid-19	CI	Line_1148
+coronvir	covid-19	CI	Line_1148
+COV19	covid-19	CI	Line_1148
+COV-19	covid-19	CI	Line_1148
+COVD	covid-19	CI	Line_1148
+COVD18	covid-19	CI	Line_1148
+COVD19	covid-19	CI	Line_1148
+COVD-19	covid-19	CI	Line_1148
+COVID19	covid-19	CI	Line_1148
+COVIC	covid-19	CI	Line_1148
+COVIC-19	covid-19	CI	Line_1148
+covid([ \-]*19)?	covid-19	CI	Line_1148
+COVIS	covid-19	CI	Line_1148
+CPSOB	Dyspnea	CI	Line_1148
+\bCV\b	cardiovascular	CI	Line_1148
+DECOMPENSATED CONGESTIVE	Heart failure 	CI	Line_1148
+DECOMPENSATED HFIEF	Heart failure 	CI	Line_1148
+decompensated HFpEF	Heart failure 	CI	Line_1148
+DECOMPENSATED HFrEF	Heart failure 	CI	Line_1148
+Decompensated SHF	Heart failure 	CI	Line_1148
+DIAHRREA	diarrhea	CI	Line_371
+DIARRRHEA	Diarrhea	CI	Line_1148
+\bdi[earhi]+a\b	Diarrhea	CI	Line_1148
+DSPNEA	Dyspnea	CI	Line_1148
+dsypnea	Dyspnea	CI	Line_1148
+DYPSNEA	Dyspnea	CI	Line_1148
+DYSNEA	Dyspnea	CI	Line_1148
+DYSNEA ON EZERTION	Dyspnea	CI	Line_1148
+DYSNPEA	Dyspnea	CI	Line_1148
+dyspea	Dyspnea	CI	Line_1148
+Dyspena	Dyspnea	CI	Line_1148
+DYSPENA, ON EXETTION	Dyspnea	CI	Line_1148
+DYSPENEA	Dyspnea	CI	Line_1148
+DYSPENIA	Dyspnea	CI	Line_1148
+DYSPNES	Dyspnea	CI	Line_1148
+DYSPNIA	Dyspnea	CI	Line_1148
+\belev\w* *temp\w*	Fever	CI	Line_1148
+\belev\w* trop\w*	 elevated troponin 	CI	Line_1148
+endcarnitis	Cardiomyopathy	CI	Line_1148
+HEMATYPOSIS	haemoptysis	CI	Line_1148
+EXERTIONAL DYSPENEa?	Dyspnea	CI	Line_1148
+FEVERw*\b	Fever	CI	Line_1148
+\bfls\b	 Flu-like Symptoms	CI	Line_1149
+GASTRONITIS	Abdominal pain	CI	Line_1148
+GEN WKNS	Fatigue	CI	Line_1148
+Generalized w[eakne]+ss?\b	Generalized weakness 	CI	Line_1148
+\bGGOs?	Ground glass opacity	CI	Line_1148
+GLOMERULEONEPHRITIS	Acute kidney injury	CI	Line_1148
+HEAWRT FAILURE	Heart failure 	CI	Line_1148
+HEMATAMESIS	Hematemesis	CI	Line_1148
+HEMATEMSIS	Hematemesis	CI	Line_1148
+HEMOPHYSIS	Hemoptysis	CI	Line_1148
+HEMOPTSIS	Hemoptysis	CI	Line_1148
+hemoptsys	Hemoptysis	CI	Line_1148
+HEMORRAGIC CONVERSION	Hemorrhagic stroke	CI	Line_1148
+HEMORRHAGIC ATROKE	Hemorrhagic stroke	CI	Line_1148
+hemorrhagic conv of an isch	Hemorrhagic stroke	CI	Line_1148
+Hemptysis	Hemoptysis	CI	Line_1148
+hepactic encelphalopathy	Acute liver injury	CI	Line_1148
+HEPC W\w* ACUTE CHRONIC PVT	Acute liver injury	CI	Line_1148
+HERAT FAILURE	Heart failure 	CI	Line_1148
+HF *excerbation	Heart failure 	CI	Line_1148
+HFIEF EXACERBATION	Heart failure 	CI	Line_1148
+HFmrEF	Heart failure 	CI	Line_1148
+HFpEF	Heart failure 	CI	Line_1148
+HFpEF EXACERBATION	Heart failure 	CI	Line_1148
+HFrEF	Heart failure 	CI	Line_1148
+HFrEF Exacer\w*	Heart failure 	CI	Line_1148
+HFrET exacerbation	Heart failure 	CI	Line_1148
+\bHHF	Heart failure 	CI	Line_1148
+\bh[ypox]+ic resp\w* fail\w*	 hypoxic respiratory failure 	CI	Line_1148
+HYDRNEHROIS	Acute kidney injury	CI	Line_1148
+\bhypercap\w*\b	hypercapnic	CI	Line_1148
+HYPERMESIS	Vomiting	CI	Line_1148
+HYPLERGLYCEMIA	hyperglycemia	CI	Line_1148
+increased temp\w*\b	Fever	CI	Line_1148
+intercranial hemorrage	Hemorrhagic stroke	CI	Line_1148
+\bhead *ach?e?s?	Headache	CI	Line_1148
+INTRACTABLE N/A	Vomiting	CI	Line_1148
+\bSTOKE\b	 stroke 	CI	Line_1148
+letharic	 lethargic 	CI	Line_1148
+parietal hemorhage	Hemorrhagic stroke	CI	Line_1148
+LVAD	Heart failure 	CI	Line_1148
+\bMH\b	Mental Health	CI	Line_1148
+\bMHE\b	Mental Health Evaluation	CI	Line_1148
+MUSCULOSKETAL DECONDITIONING	Rhabdomyolysis	CI	Line_1148
+NESTEMI	 NSTEMI 	CI	Line_1148
+\bnonstemi\b	 NSTEMI 	CI	Line_1148
+\bNSTMI\b 	 NSTEMI 	CI	Line_1148
+\bNSVT\b	Nonsustained ventricular tachycardia	CI	Line_1148
+palpitations	tachycardia	CI	Line_1148
+Penumoniahyponatremia	Pneumonia Hyponatremia	CI	Line_1148
+PERINEPHRIC	Acute kidney injury	CI	Line_1148
+PHENOMENON	Pneumonia	CI	Line_1148
+\bPHNEMONIA\w*\b	Pneumonia	CI	Line_1148
+\bPNAUMONIA	Pneumonia	CI	Line_1148
+\bPNE\b	 Pneumonia 	CI	Line_1148
+\bPNEAMONIA	Pneumonia	CI	Line_1148
+\bPNEAUMONIA	Pneumonia	CI	Line_1148
+\bPNEMOUNIA	Pneumonia	CI	Line_1148
+\bPneomonia	Pneumonia	CI	Line_1148
+\bPNEUMONIA	Pneumonia	CI	Line_1148
+\bPNEUMONITIS	Pneumonia	CI	Line_1148
+PNEUMONYA	Pneumonia	CI	Line_1148
+PNEUOMINIA	Pneumonia	CI	Line_1148
+\bPUI\b	COVID-19	CI	Line_1149
+\bp[yelo]+neph\w*\b	 pyelonephritis 	CI	Line_1148
+RABDOMYOLISIS	Rhabdomyolysis	CI	Line_1148
+RECURRENT VTACH	tachycardia	CI	Line_1148
+REESPIRATORY FAILURE	Acute respiratory failure	CI	Line_1148
+REPSIRATORY FAILURE	Acute respiratory failure	CI	Line_1148
+resoiratory failure	Acute respiratory failure	CI	Line_1148
+resp compromise	Acute respiratory distress syndrome 	CI	Line_1148
+\bRESP\w* DISTRESS	 Respiratory distress 	CI	Line_1148
+\bRESP\w*\b.{1,2}FAIL\w*\b	 respiratory failure	CI	Line_1148
+RESPIRATORY SECREATIONS	Rhinorrhea	CI	Line_1148
+respiratory ?failure	 respiratory failure	CI	Line_1148
+respitatory tract infeciton	 respiratory infection	CI	Line_1148
+\bRESP(\*|\!|\,)*\b	respiratory CI	Line_1148
+\brh?abdo\w*\b	Rhabdomyolysis	CI	Line_1148
+\brun\w* nose	 runny nose	CI	Line_1150
+\bS[ \.]O[ \.]B[ \.]	 shortness of breath 	CI	Line_1148
+\bSAR\b	 Acute respiratory distress syndrome 	CI	Line_1148
+Septic schock	Septic shock	CI	Line_1148
+SEPTIC SHOOK	Septic shock	CI	Line_1148
+SHORTNESS(?!( ?(of ?)breath))	shortness of breath	CI	Line_1148
+\bshob\b	shortness of breath CI	Line_1148
+subarchnoid hemorrage	Hemorrhagic stroke	CI	Line_1148
+SUSTAINED V-TACH	tachycardia	CI	Line_1148
+\bSYMPT\w* BRACARD\w*\b	tachycardia	CI	Line_1148 
+TACHCARDIA	tachycardia	CI	Line_1148
+TACHCYARDIA	tachycardia	CI	Line_1148
+TACHYDYSRYTHMIA	tachycardia	CI	Line_1148
+\bTACHY\b	tachycardia	CI	Line_1148
+tacchycardia	tachycardia	CI	Line_158
+TIA.{0,4}Stroke	Transient Ischemic attack	CI	Line_1148
+Tropenemia	 elevated troponin 	CI	Line_1148
+TROPNINEMIA	 elevated troponin 	CI	Line_1148
+TROPONONEMIA	 elevated troponin 	CI	Line_1148
+v60(\.0)?	Homeless person	CI	Line_1141
+VIRAL BORNCHITIS	Lower respiratory infection	CI	Line_1148
+VIRAL PHARYGITIS	Sore Throat	CI	Line_1148
+\bPNEUMO[nits]+\b	Pneumonitis 	CI	Line_1148
+vomiting	 vomiting	CI	Line_1148
+VTACH	tachycardia	CI	Line_1148
+VTACH STORM	tachycardia	CI	Line_1148
+VTECH	tachycardia	CI	Line_1148
+weakmess	weakness	CI	Line_1148
+weeakness	weakness	CI	Line_1148
+body ?aches?	body ache	CI	Line_1149
+SOB	dyspnea	CI	Line_1149

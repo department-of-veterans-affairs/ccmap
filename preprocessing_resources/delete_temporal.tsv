@@ -1,0 +1,11 @@
+\b(\d+ Ago \d+|\d+ Hrs \d+|\d+ Hours \d+|\d+ Days \d+|\d+ wks \d+|\d+ wk \d+|\d+ weeks \d+|\d+ week \d+|\d+ Last pm \d+|\d+ Last am \d+|\d+ Last night \d+|\d+ Last \d+|\d+ Mos \d+|\d+ Months \d+|\d+ Mths \d+|\d+ Month \d+|\d+ Mon \d+|\d+ Yesterday \d+|\d+ yester \d+|\d+ Yest\ d+)\b	  	CI	Line_55
+\b(\d+-\d+ Ago |\d+-\d+ Hrs |\d+-\d+ Hours |\d+-\d+ Days |\d+-\d+ wks |\d+-\d+ wk |\d+-\d+ weeks |\d+-\d+ week |\d+-\d+ Last pm |\d+-\d+ Last am |\d+-\d+ Last night |\d+-\d+ Last |\d+-\d+ Mos |\d+-\d+ Months |\d+-\d+ Mths |\d+-\d+ Month |\d+-\d+ Mon |\d+-\d+ Yesterday |\d+-\d+ yester |\d+-\d+ Yest )\b	  	CI	Line_58
+\b(\d+ Ago |\d+ Hrs |\d+ Hours |\d+ Days |\d+ wks |\d+ wk |\d+ weeks |\d+ week |\d+ Last pm |\d+ Last am |\d+ Last night |\d+ Last |\d+ Mo s|\d+ Months |\d+ Mths |\d+ Month |\d+ Mon |\d+ Yesterday |\d+ yester |\d+ Yest )\b	  	CI	Line_61
+\b(\d+-\d+ Ago|\d+-\d+ Hrs|\d+-\d+ Hours|\d+-\d+ Days|\d+-\d+ wks|\d+-\d+ wk|\d+-\d+ weeks|\d+-\d+ week|\d+-\d+ Last pm |\d+-\d+ Last am|\d+-\d+ Last night|\d+-\d+ Last|\d+-\d+ Mos|\d+-\d+ Months|\d+-\d+ Mths|\d+-\d+ Month|\d+-\d+ Mon|\d+-\d+ Yesterday|\d+-\d+ yester|\d+-\d+ Yest\ d+)\b	  	CI	Line_64
+\b(\d+ Ago|\d+ Hrs|\d+ Hours|\d+ Days|\d+ wks|\d+ wk|\d+ weeks|\d+ week|\d+ Last pm|\d+ Last am|\d+ Last night|\d+ Last|\d+ Mos|\d+ Months|\d+ Mths|\d+ Month|\d+ Mon|\d+ Yesterday|\d+ yester|\d+ Yest)\b	  	CI	Line_67
+\b(\d+Ago |\d+Hrs |\d+Hours |\d+Days |\d+wks |\d+wk |\d+weeks |\d+week |\d+Last pm |\d+Last am |\d+Last night |\d+Last |\d+Mos |\d+Months |\d+Mths |\d+Month |\d+Mon |\d+Yesterday |\d+yester |\d+Yest )\b	  	CI	Line_70
+\b(\d+Ago|\d+Hrs|\d+Hours|\d+Days|\d+wks|\d+wk|\d+weeks|\d+week|\d+Last pm |\d+Last am|\d+Last night|\d+Last|\d+Mos|\d+Months|\d+Mths|\d+Month|\d+Mon|\d+Yesterday|\d+yester|\d+Yest)\b	  	CI	Line_73
+\b(Ago \d+|Hrs \d+|Hours \d+|Days \d+|wks \d+|wk \d+|weeks \d+|week \d+|Last pm \d+|Last am \d+|Last night \d+|eLast \d+|Mos \d+|Months \d+|Mths \d+|Month \d+|Mon \d+|Yesterday \d+|yester \d+|Yest\ d+)\b	  	CI	Line_76
+\b(Ago|Hrs|Hours|Days|wks|wk|weeks|week|Last night|Last pm|Last am|Last|Mos|Months|Mths|Month|Mon|Yesterday|yester|Yest)\b	  	CI	Line_79
+^\s+	 	CI	Line_83
+\s+$	 	CI	Line_86
