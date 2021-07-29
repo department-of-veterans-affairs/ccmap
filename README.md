@@ -6,7 +6,7 @@ to configure cTAKES:
 1. download the ctakes resources
 https://sourceforge.net/projects/ctakesresources/files/latest/download
    or
-   Create new UMLS extract
+   Create new UMLS extract 
 
 2. Update lvg.properties file with the path to LVG data
 
@@ -23,7 +23,7 @@ to configure UIMA AS
 1. Download and configure UIMA AS 2.9 
 2. Start UIMA AS broker
 3. Configure a reader. At this time, only the database reader is configured to use the abbreviation expansion.
-4. Confugre a listener.
+4. Configure a listener.
 5. Run Service.java
 6. Run Client.java pointing to the configured reader and listener.
 
