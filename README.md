@@ -16,7 +16,7 @@ https://sourceforge.net/projects/ctakesresources/files/latest/download
 
 5. Update umls_dictionary_settings.xml to point to the correct jdbcUrl
 
-ConceptMapper is based on Leo architecture. Follow the instructions
+CCMap is based on Leo architecture. Follow the instructions
 http://department-of-veterans-affairs.github.io/Leo/userguide.html 
 to configure UIMA AS
 
