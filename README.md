@@ -1,4 +1,4 @@
-## conceptMapper
+## CCMap - Chief Compaints mapper to UMLS
 
 
 to configure cTAKES:
